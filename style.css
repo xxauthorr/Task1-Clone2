@@ -1,0 +1,380 @@
+
+body{
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    height:90px;
+    background-color: black;
+
+}
+
+.navDiv{
+    width: 100%;
+    height:100%;
+}
+.logoAlign{
+    padding-top: 18px;
+    margin-left: 47%;
+    width: 100px;
+    height: 60px;
+}
+.nortonLogo{
+    height: 100%;
+    width: 100%;
+
+}
+.naviconAlign{
+    margin-left: 93%;
+    margin-top: -60px;
+    height: 80%;
+    width: 100px;
+}
+.ricon{
+    padding-top: 10px;
+    width: 45px;
+}
+.img1div{
+    height: 42em;
+    width: 100%;
+    background-color: black
+}
+.img1{
+    object-fit:cover;
+    height: 100%;
+    width:100%
+}
+.sec2{
+    height:91ex;
+    background-color:rgb(200, 200, 202);
+    width: 100%;
+}
+
+.img2{
+    object-fit:cover;
+    height: 100%;
+    width:60%;
+    float: right;
+    
+}
+.sec2text1{
+    width: 30%;
+    padding-top: 100px;
+}
+.name1{
+    float:inline-start;
+    max-width: 167px;
+    max-height: 84px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.sec2div{
+    float: left;
+    width: 30%;
+    height: 70%;
+    margin-left: 80px;
+    margin-top: 120px;
+
+}
+
+.sec2text2{
+    float: inherit;
+    margin-left: 20px;
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 600;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+.sec2text3{
+    float:left;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    font-family: 'Playfair Display SC', serif;
+}
+.sec1But{
+    float: left;
+    height: 90px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.sec1But:hover{
+    color: white;
+    background-color: black;
+    
+}
+.dot-icon{
+    position: absolute;
+    height: 13px;
+    width: 13px;
+    margin-top: 37em;
+    margin-left: 35em;
+    
+}
+.dot-icon:hover{
+    height: 15px;
+    width: 15px;
+
+}
+.sec3{
+    height:91ex;
+    background-color: rgb(90, 90, 93);
+    width: 100%;
+}
+.sec4{
+    height:91ex;
+    background-color: rgb(213, 213, 213);
+    width: 100%;
+}
+.sec4text2{
+    float: top;
+    margin-top: 70px;
+    margin-left: 20px;
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 600;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+.sec5text2{
+    float: left;
+    margin-left: 16px;
+    color: white;
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 400;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+.sec5text3{
+    float:left;
+    margin-left: 16px;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 28px;
+    font-family: 'Playfair Display SC', serif;
+}
+.sec5{
+    height:91ex;
+    background-color:black;
+    width: 100%;
+}
+.sec5div{
+    float: left;
+    width: 30%;
+    height: 70%;
+    margin-left: 80px;
+    margin-top: 50px;
+
+}
+.tuned{
+    float: left;
+    width: 100%;
+    height: 40em;
+    background-color: rgb(157, 168, 169);
+}
+.tunedText1{
+    margin-top: 8%;
+    font-size: 65px;
+    font-weight: 200;
+    text-align: center;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+.tunedText2{
+    margin-top: 15px;
+    font-size: 22px;
+    font-weight: lighter;
+    text-align: center;
+    line-height: 36px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.img6{
+    object-fit:contain;
+    height: 100%;
+    width:60%;
+    margin-top: 11px;
+    margin-bottom: 80px;
+    float: right;
+    
+}
+.sec6text3{
+    float:left;
+    margin-left: 16px;
+    margin-top: 30px;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: 'Playfair Display SC', serif;
+    line-height: 40px;
+}
+.sec6text2{
+    float: left;
+    margin-left: 16px;
+    color: black;
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 600;
+    font-size: 22px;
+    
+    text-transform: uppercase;
+}
+.sec6{
+    height:91ex;
+    background-color:white;
+    width: 100%;
+}
+.sec6But{
+    float: left;
+    height: 90px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    margin-top: 100px;
+    border: 1px solid black;
+}
+.sec6But:hover{
+    background-color: white;
+    color: black;
+
+}
+.black1{
+    width: 100%;
+    float: left;
+    background-color: black;
+    height: 56em;
+}
+.stories{
+    color: white;
+    float: top;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 15px;
+}
+.storiesImgDiv{
+    width: 23em;
+    height: 30em;
+    margin-left: 36em;
+    margin-top: 40px;
+}
+
+
+.StoryIcon{
+    align-items: center;
+    margin-left: 43em;
+    height: 130px;
+
+}
+.StoryIcon:hover{
+    height: 132px;
+
+}
+.storiesText{
+    text-align: center;
+    color: white;
+   
+    margin-top: 0px;
+    font-size: 30px;
+}
+.stories:hover{
+    text-decoration:underline 1px solid white;
+}
+.moreStories{
+    margin-left: 41em;
+    height: 50px;
+    width: 200px;
+    text-decoration: none;
+    background-color: black;
+    color :white;
+    font-size: medium;
+    font-weight: 600;
+}
+.moreStories:hover{
+    background-color: white;
+    color: black;
+}
+.storyImage{
+    object-fit:cover;
+    height: 100%;
+    width: 100%;
+}
+.black2{
+    float: left;
+    width: 100%;
+    height: 56em;
+    background-color: black;
+}
+.bigText{
+
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    margin-top: 100px;
+    font-family: 'Cinzel', serif;
+
+}
+.blk2Align{
+    height: 200px;
+    width: 15%;
+    align-items: center;
+    
+    float: top;
+    margin-left: 40%;
+   
+    list-style: none;
+    
+}
+.blk2Text{
+    color: white;
+    text-align: center;
+    font-size: 34px;
+}
+.blk2Text:hover{
+    color: #bab7b6;
+}
+.socialIcon{
+    display:inline;
+    margin-left: 8px; 
+}
+.socialIcon:hover{
+    color:  #bab7b6;
+    
+}
+.socialIconsdiv{
+    list-style: none;
+    align-items: center;
+    margin-left: 39%;
+    margin-right: 500px;
+}
+.pvt{
+    color: white;
+    display: inline;
+    padding-left: 20px;
+}
+.pvtDiv{
+    float: left;
+    margin-left: 35em;
+    margin-top: 40px;
+}
+.pvt:hover{
+    color: #bab7b6;
+}
+.last{
+    color: #bab7b6;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 7em;
+}
